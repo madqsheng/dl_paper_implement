@@ -1,1 +1,2 @@
 data/oxford_flowers102_datasets/** filter=lfs diff=lfs merge=lfs -text
+model/diffusion_model_800/** filter=lfs diff=lfs merge=lfs -text
